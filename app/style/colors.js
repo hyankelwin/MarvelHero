@@ -1,0 +1,15 @@
+const BASE_COLOR = '#22262a';
+const MARVEL = '#ed4631';
+
+const BRAND_PRIMARY = '#6DFBFB';
+const BRAND_SECUNDARY = '#FFF';
+
+const DEFAULT_FONT_COLOR = '#393939';
+
+export {
+  BASE_COLOR,
+  BRAND_PRIMARY,
+  BRAND_SECUNDARY,
+  DEFAULT_FONT_COLOR,
+  MARVEL,
+};

@@ -1,0 +1,59 @@
+{
+  "name": "marvel",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "lint": "eslint *.js **/*.js",
+    "lint-fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@kalwani/react-native-modal": "^0.1.2",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "formik": "^1.5.1",
+    "moment": "^2.24.0",
+    "native-base": "^2.10.0",
+    "ramda": "^0.26.1",
+    "ramda-extension": "^0.7.2",
+    "react": "16.6.3",
+    "react-native": "0.58.6",
+    "react-native-axios": "^0.17.1",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-modal": "^9.0.0",
+    "react-native-responsive-image-view": "^2.0.0",
+    "react-native-shimmer-placeholder": "^1.0.30",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-status-bar-height": "^2.3.1",
+    "react-navigation": "^3.5.1",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.5",
+    "redux-axios-middleware": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "rxjs": "^5.5.2",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "23.6.0",
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-steelbrain": "^6.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-native": "^3.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-native-vector-icons": "^6.0.2",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
