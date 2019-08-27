@@ -33,7 +33,7 @@ quadrinhos e muito mais.
 
 <!-- Primeiros passos / Instalação: -->
 
-## Primeiros passos
+## Instalação / Configuração
 
 Pré-requisitos: Para rodar o projeto react-native em seu celular ou emulador você precisa de algumas
 configurações mais especificas, recomendo este link
