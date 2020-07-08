@@ -1,8 +1,8 @@
-# Marvel - Herois
+## Marvel - Herois
 
 <!-- O que é: -->
 
-# O que é o Marvel Herois?
+## O que é o Marvel Herois?
 
 Marvel Herois é um aplicativo destinado a fans de bilheteria dos super herois mais queridos
 do cinema, com ele você consegue estar mais proximo de todos seus herois, conhecer suas histórias, eventos,
@@ -10,7 +10,7 @@ quadrinhos e muito mais.
 
 <!-- Tecnologias: -->
 
-# Tecnologias Utilizadas?
+## Tecnologias Utilizadas?
 
 - **React-native:** - Framework utilizado no desenvolvimento da aplicação
 - **Redux:** Biblioteca utilizada para controlar o estado da aplicação.
