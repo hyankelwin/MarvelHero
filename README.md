@@ -1,11 +1,11 @@
 ## Marvel - Herois
 
 <p align="center">
-  <img src="app/common/images/screenshot_1.jpeg" width="200"/>
-  <img src="app/common/images/screenshot_2.jpeg" width="200"/>
-  <img src="app/common/images/screenshot_3.jpeg" width="200"/>
-  <img src="app/common/images/screenshot_4.jpeg" width="200"/>
-  <img src="app/common/images/screenshot_5.jpeg" width="200"/>
+  <img src="app/common/images/screenshot_1.jpeg" width="195"/>
+  <img src="app/common/images/screenshot_2.jpeg" width="195"/>
+  <img src="app/common/images/screenshot_3.jpeg" width="195"/>
+  <img src="app/common/images/screenshot_4.jpeg" width="195"/>
+  <img src="app/common/images/screenshot_5.jpeg" width="195"/>
 </p>
 
 <!-- O que é: -->
