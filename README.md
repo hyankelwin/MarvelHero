@@ -1,4 +1,7 @@
-## Marvel - Herois
+<br>
+  <img src="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo.png" alt="Marvel" width="120">
+<br>
+<br>
 
 <p align="center">
   <img src="app/common/images/screenshot_1.jpeg" width="150"/>
