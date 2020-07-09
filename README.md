@@ -1,7 +1,9 @@
+<h1 align="center">
 <br>
   <img src="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo.png" alt="Marvel" width="120">
 <br>
 <br>
+</h1>
 
 <p align="center">
   <img src="app/common/images/screenshot_1.jpeg" width="150"/>
