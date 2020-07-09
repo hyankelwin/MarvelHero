@@ -13,23 +13,23 @@
   <img src="app/common/images/screenshot_5.jpeg" width="150"/>
 </p>
 
-<!-- O que é: -->
+<!-- What is: -->
 
-## O que é o Marvel Herois?
+## What is Marvel Heroes?
 
-Marvel Herois é um aplicativo destinado a fans de bilheteria dos super herois mais queridos
-do cinema, com ele você consegue estar mais proximo de todos seus herois, conhecer suas histórias, eventos,
-quadrinhos e muito mais.
+Marvel Herois is an app aimed at box office fans of the most beloved superheroes
+of cinema, with it you can be closer to all your heroes, know their stories, events,
+comics and more.
 
-<!-- Tecnologias: -->
+<!-- Tecnologics: -->
 
-## Tecnologias Utilizadas?
+## Technologies Used?
 
-- **React-native:** - Framework utilizado no desenvolvimento da aplicação
-- **Redux:** Biblioteca utilizada para controlar o estado da aplicação.
-- **Axios:** Cliente HTTP baseado em promessas para conecção com a api.
-- **Eslint:** Ferramenta de análise de codigo mantendo os padrões configurados para aplicação.
-- **Ramda:** Biblioteca funcional JavaScript.
+- **React-native:** - Framework used in application development.
+- **Redux:** Library used to control application status.
+- **Axios:** Http client based on promises for connection with api.
+- **Eslint:** Code analysis tool keeping the standards configured for application.
+- **Ramda:** Functional library JavaScript.
 
 <!-- Links: -->
 
@@ -44,38 +44,38 @@ quadrinhos e muito mais.
 
 ---
 
-<!-- Primeiros passos / Instalação: -->
+<!-- Get Started / Install: -->
 
-## Instalação / Configuração
+## Getting started
 
-Pré-requisitos: Para rodar o projeto react-native em seu celular ou emulador você precisa de algumas
-configurações mais especificas, recomendo este link
-(https://facebook.github.io/react-native/docs/getting-started) caso ainda não possua as configurações recomendadas em sua maquina.
+Prerequisites: To run the react-native project on your mobile or emulator you need some
+more specific settings, I recommend this link
+(https://facebook.github.io/react-native/docs/getting-started) if you do not already have the recommended settings on your machine.
 
-1. Instale
+1. Install
    [Git](http://git-scm.com/downloads) e
    [NodeJS](http://nodejs.org/download/),
-   caso você não os tenha ainda.
+   in case you don't have them yet.
 
-2. Clone o repositório:
+2. Clone repository:
 
    ```sh
    $ git clone git://github.com/hyankelwin/MarvelHero.git
    ```
 
-3. Vá para pasta do projeto:
+3. Go to project folder:
 
    ```sh
    $ cd marvel
    ```
 
-4. Instale todas as dependências:
+4. Install all dependences:
 
    ```sh
    $ npm install ou yarn
    ```
 
-5. E finalmente rode:
+5. Finally run:
 
    ```sh
    $ react-native run-android (Android)
@@ -83,14 +83,14 @@ configurações mais especificas, recomendo este link
    $ react-native run-ios (IOS)
    ```
 
-   Agora você irá ver o aplicativo rodando em seu celular ou emulador :D
+   Now you will see the app running on your mobile phone or emulator :D
 
-<!-- Criado por: -->
+<!-- Create by: -->
 
-## Quem está por trás disso?
+## Who's behind this?
 
-Um desenvolvedor apaixonado pela programação e tecnologias.
+Developer passionate about programming and technologies.
 
-**Criado por**:
+**Create by**:
 
 - [Hyan Kelwin](http://github.com/hyankelwin)
