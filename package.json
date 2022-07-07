@@ -12,7 +12,7 @@
     "@kalwani/react-native-modal": "^0.1.2",
     "babel-plugin-module-resolver": "^3.2.0",
     "formik": "^1.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.10.0",
     "ramda": "^0.26.1",
     "ramda-extension": "^0.7.2",
